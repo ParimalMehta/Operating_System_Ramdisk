@@ -1,0 +1,9 @@
+1. https://developer.ibm.com/articles/l-fuse/
+
+2. http://www.virtsync.com/c-error-codes-include-errno
+
+3. https://www.cs.hmc.edu/~geoff/classes/hmc.cs135.201001/homework/fuse/fuse_doc.html
+
+4. http://www.maastaar.net/fuse/linux/filesystem/c/2016/05/21/writing-a-simple-filesystem-using-fuse/
+
+5. Hello.c code for FUSE which was already present in the VCL copy.
